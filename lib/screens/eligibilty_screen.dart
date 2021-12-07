@@ -32,7 +32,7 @@ class EligibilityScreen extends StatelessWidget {
                         provider.checkEligibility(age);
                       },
                       child: const Text(
-                          'Check Marriage Status'
+                          'check Status'
                       ),
 
                     ),
